@@ -37,18 +37,11 @@
 
 ---
 
-### 🧩 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/chandrababugowda3042003?theme=dark&ext=heatmap" />
-</p>
-
----
-
 ### 🔗 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chandrababu-gowda/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://x.com/ChandrababuGowd"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://leetcode.com/u/chandrababugowda3042003/"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
   <a href="mailto:chandrababugowda3042003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
